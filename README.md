@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="left">My Skills:</h3>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,express,mongodb,nodejs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,firebase,express,mongodb,nodejs)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aasshhrraaff&show_icons=true&locale=en&layout=compact" alt="aasshhrraaff" /></p>
 
