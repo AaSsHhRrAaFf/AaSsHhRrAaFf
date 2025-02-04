@@ -1,18 +1,25 @@
 <div align="center">
-   <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="Welcome Banner">
 </div>
 
-# <img src="https://raw.githubusercontent.com/AaSsHhRrAaFf/AaSsHhRrAaFf/main/wave.gif" width="40"> Hi, I'm **Ashraf Ullah**  
+# <img src="https://raw.githubusercontent.com/AaSsHhRrAaFf/AaSsHhRrAaFf/main/wave.gif" width="40"> Hi, I'm **Ashraf Ullah**
 
-🚀 **MERN Stack Developer | Open-Source Contributor | Tech Enthusiast**  
-
-🎯 **Crafting scalable & high-performance web applications**  
-
-👨‍💻 **Turning ideas into reality through code**  
+🚀 **MERN Stack Developer | Open-Source Advocate | Innovator**  
+🎯 **Building high-performance, scalable web applications that drive business success**  
+💡 **Transforming complex challenges into cutting-edge solutions**
 
 ---
 
-### 📊 **Profile Views & GitHub Trophy**  
+## 🌟 Why Me?
+
+- **Impact-Driven:** I thrive on developing projects that not only work flawlessly but also create measurable impact.
+- **Lifelong Learner:** Constantly evolving my skillset — currently diving into Next.js, TypeScript, system design, and AI-powered applications.
+- **Creative Problem Solver:** My code isn't just functional; it tells a story of persistence, innovation, and creativity.
+
+---
+
+## 📊 **Profile Views & GitHub Trophy**
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AaSsHhRrAaFf&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -23,15 +30,15 @@
 
 ---
 
-## 📬 **Connect with Me**  
+## 🌐 **Connect with Me**
 
 <p align="center">
   <a href="https://github.com/AaSsHhRrAaFf" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28">
-  </a> 
+  </a>
   <a href="https://www.linkedin.com/in/ashraf-ullah-2b731524b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
-  </a> 
+  </a>
   <a href="https://x.com/ashraf_ullah_01" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28">
   </a>
@@ -39,18 +46,18 @@
 
 ---
 
-## 🚀 **About Me**  
+## 🚀 **Professional Snapshot**
 
-- 💼 **Currently working on:** A **new e-commerce platform** using **React & Node.js**  
-- 🌱 **Currently learning:** **Next.js & TypeScript**  
-- 🎯 **Goal for 2025:** Master **system design & AI-powered web apps**  
-- 💬 **Ask me about:** **JavaScript, React, Node.js, MongoDB, REST APIs**  
-- 📂 **Portfolio:** [🔗 Visit My Portfolio](https://ashraf-ullah.netlify.app/)  
-- ⚡ **Fun Fact:** I spend **more time debugging than coding** 😂  
+- 💼 **Current Focus:** Developing an innovative **e-commerce platform** with **React & Node.js** to redefine the shopping experience.
+- 🌱 **What I'm Learning:** Expanding my expertise in **Next.js, TypeScript, system design, and AI integration**.
+- 🎯 **2025 Vision:** To architect and deliver next-gen web applications that are secure, fast, and user-centric.
+- 💬 **Expertise:** JavaScript, React, Node.js, MongoDB, REST APIs & modern development practices.
+- 📂 **Portfolio:** [🔗 Explore My Work](https://ashraf-ullah.netlify.app/)  
+- ⚡ **Fun Fact:** I debug like a detective – every bug is an opportunity to innovate!
 
 ---
 
-## 🛠️ **Tech Stack & Tools**  
+## 🛠️ **Tech Stack & Tools**
 
 ### 🚀 **Frontend Development**
 <p align="left">
@@ -80,24 +87,28 @@
 
 ---
 
-## 📊 **GitHub Stats**  
+## 📊 **GitHub Stats**
 
-### 🔥 **Profile Overview**  
+### 🔥 **Profile Overview**
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AaSsHhRrAaFf&theme=react&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <img width="49%" src="https://streak-stats.demolab.com/?user=AaSsHhRrAaFf&theme=react&mode=daily" alt="GitHub Streak">
 </p>
 
-### 💻 **Language Breakdown**  
+### 💻 **Language Breakdown**
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AaSsHhRrAaFf&theme=react&layout=compact&langs_count=6" alt="Top Languages">
 </p>
 
 ---
 
-## 🎯 **Quote of the Day**  
-> **"Code is like humor. When you have to explain it, it’s bad."** – Cory House  
+## 🏆 **Achievements & Milestones**
+
+- **Open-Source Contributions:** Actively contributing to projects that solve real-world problems.
+- **Certifications:** [List any relevant certifications or courses you’ve completed]
+- **Hackathons & Meetups:** Regularly participating in tech events and hackathons to push creative boundaries.
+- **Thought Leadership:** Sharing insights through blogs, talks, and community contributions.
 
 ---
 
-### 🌟 **If you like my work, consider giving my profile a star! ⭐**  
+*Let's connect and build something extraordinary together!*
