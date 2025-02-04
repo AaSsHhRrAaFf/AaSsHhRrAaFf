@@ -10,17 +10,14 @@
 <a href="https://twitter.com/https://x.com/ashraf_ullah_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/ashraf_ullah_01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashraf-ullah-2b731524b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashraf-ullah-2b731524b/" height="30" width="40" /></a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
-<p align="center">
+
+<h3 align="left">My Skills:</h3>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,wasm" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-<h3 align="left">My Skills:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aasshhrraaff&show_icons=true&locale=en&layout=compact" alt="aasshhrraaff" /></p>
 
