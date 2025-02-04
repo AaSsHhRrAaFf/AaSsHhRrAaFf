@@ -1,5 +1,5 @@
 <div align="center">
-![👋 Hi, my name is Ashraf Ullah](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+   ![👋 Hi, my name is Ashraf Ullah](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 </div>
 <div id="toc">
   <ul align="center" style="list-style: none">
