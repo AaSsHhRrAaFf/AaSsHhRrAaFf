@@ -69,6 +69,10 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AaSsHhRrAaFf&theme=react&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats Card" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=AaSsHhRrAaFf&theme=react&mode=daily" alt="GitHub streak Card" />
+   <a href="https://git.io/streak-stats">
+     <img src="https://nirzak-streak-stats.vercel.app?user=AaSsHhRrAaFf&theme=dark&hide_border=true&exclude_days=Fri" alt="GitHub Streak">
+   </a>
+
 </p>
 
 ### 💻 Language Breakdown  
