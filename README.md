@@ -67,17 +67,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-<a href="https://github.com/AaSsHhRrAaFf">
   <img src="https://github-readme-stats.vercel.app/api?username=AaSsHhRrAaFf&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="AaSsHhRrAaFf's GitHub Stats">
-</a>
-
-   <a href="https://git.io/streak-stats">
-     <img src="https://nirzak-streak-stats.vercel.app?user=AaSsHhRrAaFf&theme=dark&hide_border=true&exclude_days=Fri" alt="GitHub Streak">
-   </a>
-
+  <img src="https://nirzak-streak-stats.vercel.app?user=AaSsHhRrAaFf&theme=dark&hide_border=true&exclude_days=Fri" alt="GitHub Streak">
 </p>
 
 ### 💻 Language Breakdown  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AaSsHhRrAaFf&theme=react&layout=compact&langs_count=6" alt="GitHub top-langs Card" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaSsHhRrAaFf&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="AaSsHhRrAaFf's Top Languages">
 </p>
