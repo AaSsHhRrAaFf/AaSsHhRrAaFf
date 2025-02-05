@@ -6,8 +6,6 @@
 
 🚀 **Passionate Full-Stack Web Developer** crafting robust, scalable web applications with a keen eye for **user experience** and **performance optimization**.
 
-## 🚀 Fun Fact  
-💡 **I spend more time solving bugs than writing code!** Debugging is like being a detective in a crime movie where **you are also the criminal.** 🕵️‍♂️🐞  
 
 ## 🌍 Connect with Me  
 <p align="left">
@@ -24,7 +22,7 @@
 - 🌱 **Currently learning:** **Next.js & TypeScript**  
 - 💬 **Ask me about:** **JavaScript, React, Node.js, MongoDB, REST APIs**  
 - 📂 **Portfolio:** [ashraf-ullah.netlify.app](https://ashraf-ullah.netlify.app/)
-- ## 🚀 Fun Fact:** **I spend more time solving bugs than writing code!** Debugging is like being a detective in a crime movie where **you are also the criminal.** 🕵️‍♂️🐞  
+- 🚀 **Fun Fact:** **I spend more time solving bugs than writing code!** Debugging is like being a detective in a crime movie where **you are also the criminal.** 🕵️‍♂️🐞  
 
 
 ---
