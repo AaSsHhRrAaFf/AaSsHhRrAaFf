@@ -66,7 +66,7 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AaSsHhRrAaFf&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="AaSsHhRrAaFf's GitHub Stats">
   <img src="https://nirzak-streak-stats.vercel.app?user=AaSsHhRrAaFf&theme=dark&hide_border=true&exclude_days=Fri" alt="GitHub Streak">
 </p>
