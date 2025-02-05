@@ -21,7 +21,10 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28">
    </a>
 </p>
-
+<p>
+  📧 Email: <a href="mailto:ashraff2809@gmail.com">ashraff2809@gmail.com</a><br>
+  📞 Contact: +8801833085448
+</p>
 ---
 
 ## 🚀 What I’m Currently Doing  
