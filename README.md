@@ -40,9 +40,9 @@
 ### 🎨 Frontend  
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32">
+<!--   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32"> -->
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="32">
+<!--   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="32"> -->
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32">
   <img src="https://img.shields.io/badge/Material_UI-007FFF?logo=material-ui&logoColor=white" height="32">
 </p>
