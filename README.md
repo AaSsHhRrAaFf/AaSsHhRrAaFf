@@ -70,6 +70,9 @@
 <div align="center">
    <img src="https://drive.google.com/file/d/1LPmcA--V6Khosp0To1cT4nImAWS_WCYK/view?usp=drive_link" alt="Certificate">
 </div>
+<div align="center">
+   <img src="https://imgur.com/a/uTMrr6v">
+</div>
 ## 📊 GitHub Stats  
 
 <p align="left">
